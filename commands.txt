@@ -1,0 +1,8 @@
+git init - for inialising
+git add
+git status
+git commit
+git log
+history
+git diff
+git restore
