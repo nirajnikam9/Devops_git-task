@@ -1,1 +1,3 @@
 this is second feature from final git
+
+dev 2 added some changes to this feature2
